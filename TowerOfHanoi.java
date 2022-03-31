@@ -29,11 +29,6 @@ public class TowerOfHanoi {
             System.out.println("Enter a valid integer!");
         }
 
-        input.close();
-        
+        input.close();  
     }
-
-    
- 
 } 
-
